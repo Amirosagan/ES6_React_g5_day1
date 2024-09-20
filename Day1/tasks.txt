@@ -1,0 +1,9 @@
+this => refer to what
+
+this => in regular function => refer to what
+this => in arrow function => refer to what
+this => in object => refer to what
+
+
+
+findIndex()=>array => write code 
